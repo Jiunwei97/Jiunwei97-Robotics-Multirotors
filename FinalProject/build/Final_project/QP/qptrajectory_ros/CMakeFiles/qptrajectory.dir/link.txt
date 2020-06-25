@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libqptrajectory.so -o /home/ncrl/gener_ws/devel/lib/libqptrajectory.so CMakeFiles/qptrajectory.dir/include/qptrajectory.cpp.o -lpython2.7 
