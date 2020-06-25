@@ -1,0 +1,2 @@
+Final_project/QP/qptrajectory_ros:offboard:showpath
+-DCATKIN_DEVEL_PREFIX=/home/ncrl/gener_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ncrl/gener_ws/install -G Unix Makefiles

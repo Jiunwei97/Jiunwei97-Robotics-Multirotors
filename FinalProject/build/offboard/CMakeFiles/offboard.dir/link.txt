@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,liboffboard.so -o /home/ncrl/gener_ws/devel/lib/liboffboard.so CMakeFiles/offboard.dir/include/qptrajectory.cpp.o -lpython2.7 
